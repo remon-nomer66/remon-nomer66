@@ -1,12 +1,16 @@
-### Hi there 👋
+### A chick who just started and doesn't know anything 🐣
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remon-nomer66&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=remon-nomer66&theme=onedark&show_icons=ture" />
+</p>
 
 <!--
 **remon-nomer66/remon-nomer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={remon-nomer66}&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
