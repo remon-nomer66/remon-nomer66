@@ -1,4 +1,5 @@
 ### A chick who just started and doesn't know anything 🐣
+### It will take a lot of your time and skills to become a mature bird.🐓
 
 ![](https://komarev.com/ghpvc/?username=remon-nomer66)
 
