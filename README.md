@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=remon-nomer66)
 
-In the Information Processing Systems Laboratory, I am conducting "research on behavior analysis of dementia patients using depth cameras" and "a joint project with a semiconductor manufacturer. I am Nakajima, a two-faced person.(Money in the hundreds of millions never goes missing from the bankbook)<br>
+In the Information Processing Systems Laboratory, I am involved in “research on behavioral analysis of dementia patients using depth cameras” and “development of a barn DX system".<br>
 I am also working on a cutting-edge job hunting support application using generative AI technology. The launch is scheduled for this fall or winter.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remon-nomer66&theme=dracula)
