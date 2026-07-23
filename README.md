@@ -111,8 +111,6 @@ I am a master's student at the University of Miyazaki, Japan.
 <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remon-nomer66&theme=github_dark" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remon-nomer66&theme=github" />
 <img width="250" align="top" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remon-nomer66&theme=github" />
-</picture><!--
---><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wis86dx9ic9zolx7lvvmi3wda&redirect=true"><img width="500" align="top" alt="Spotify Now Playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=wis86dx9ic9zolx7lvvmi3wda&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=false" /></a>
 </div>
 
 <br>
